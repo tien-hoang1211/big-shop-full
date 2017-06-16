@@ -1,0 +1,30 @@
+{
+  "name": "big-shop-full",
+  "version": "1.0.0",
+  "description": "Big Shop Version 2",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tien-hoang1211/big-shop-full.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tien-hoang1211/big-shop-full/issues"
+  },
+  "homepage": "https://github.com/tien-hoang1211/big-shop-full#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.11.0",
+    "pg": "^6.2.4"
+  }
+}
